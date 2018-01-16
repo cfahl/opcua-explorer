@@ -4,7 +4,7 @@ This project was developed for internal use at Sight Machine.  It was developed 
 # How To Use
 To clone and run this application, you’ll need Git and an API development environment such as Postman installed on your computer.  From your command line:
 
-Add picture
+![picture](images/how_to.png)
 
 After app.py is running, open your API development environment to begin viewing each endpoint.  Changing the parameters allows you to manipulate the watchlist database and view different tags found on the OPCUA server.
 
