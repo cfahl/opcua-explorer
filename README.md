@@ -8,7 +8,9 @@ To clone and run this application, you’ll need Git and an API development envi
 
 After app.py is running, open your API development environment to begin viewing each endpoint.  Changing the parameters allows you to manipulate the watchlist database and view different tags found on the OPCUA server.
 
-Add pictures
+![pciture](images/list all names tags.png)  
+![picture](images/add tag watchlist.png)  
+![picture](images/list all taghistory.png)  
 
 The endpoints include:  
 /watchlist  
